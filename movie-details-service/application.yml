@@ -1,0 +1,8 @@
+
+spring:
+  data:
+    mongodb:
+      database: movieapp
+      host: localhost
+      port: 27017
+
